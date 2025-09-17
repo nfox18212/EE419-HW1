@@ -4,7 +4,7 @@ import matplotlib as mp
 import sympy 
 
 from scipy import linalg
-from sympy import *
+from sympy import Matrix
 
 def main():
     print("Hello from hw1!")
